@@ -1,2 +1,3 @@
 # first-1
-its my trial...
+This is my first git repository 
+- atul parmar
